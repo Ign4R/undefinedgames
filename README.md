@@ -1,2 +1,2 @@
-# https://ignacioreynaga.github.io/undefinedgame/
+# undefinedgame
 my first landing page, OMG!
