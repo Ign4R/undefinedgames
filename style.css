@@ -1,0 +1,152 @@
+body{
+	background-color: black
+
+}
+.logo {
+	    color: #c1ff47;
+    background-color: #11363c;
+    padding: 15px;
+}
+.carousel-inner{
+	padding: 100px;
+    margin-top: -73px;
+
+}
+
+
+.title {
+	     color: #c1ff47;
+    background-image: linear-gradient(217deg, rgb(183 174 174 / 42%), rgb(0 0 0)), url(https://images.unsplash.com/photo-1592609931041-40265b692757?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    padding: 275px;
+    margin: 0px;
+    margin-top: 0px;
+    font-size: 86px;
+}	
+.titletwo{
+	color: #c1ff47;
+    position: absolute;
+    margin: -176px 346px;
+    background-color: #11363ca6;
+    padding: 17px;
+}
+a.titletwo:hover{
+	text-decoration: none;
+    color: #6c757d;
+}
+.titlethree{
+	color: #c1ff47;
+    position: absolute;
+    margin: -229px 817px;
+    font-size: 2.5rem;
+    padding: 46px;
+    font-weight: 500;
+    background-color: #11363ca6;
+    padding: 20px;
+    text-align: center;
+   padding: 20px;
+}
+a.titlethree:hover {
+text-decoration: none;
+    color: #6c757d;
+
+}
+.correo{
+	color: #c1ff47;
+    position: absolute;
+    margin: -210px 1287px;
+    font-size: 2.5rem;
+    padding: 46px;
+    font-weight: 500;
+    background-color: #11363ca6
+   ;
+   padding: 20px;
+    }
+    a.correo:hover {
+text-decoration: none;
+    color: #6c757d;
+}
+
+.mini{
+	color: white;
+}
+#minititle{
+	color: #c1ff47;
+    background-color: #0f2e33;
+    text-align: center;
+    padding: 11px;
+
+}
+.descripcion {
+	position: relative;
+    background-color: #11363c;
+    font-size: 33px;
+    margin: 26px;
+    color: #c1ff47;
+    text-align-last: center;
+    padding: 28px;
+    border-bottom: #b91818;
+    border-radius: 50px;
+    font-weight: bold;
+
+}
+.softwares {
+	color: #dee2e6;
+    background-color: #11363c3d;
+    line-height: 8;
+}
+h2{
+	font-size: 43px;
+    padding-top: 18px;
+}
+
+.nota{
+	color:white;
+}
+.btn-medium{
+	color:white;
+	text-decoration: underline;
+}
+p a:hover {
+	text-decoration: none;
+	color: #93af63;
+	}
+#autografia{
+	      color: #c1ff47;
+    background-color: #0f2e33;
+    text-align: center;
+    padding: 58px;
+    font-size: 54px;
+    margin: 212px;
+    margin-top: 46px;
+}
+.autografiatext{
+	    background-color: #091e21;
+    margin-top: -153px;
+    padding: 56px;
+    font-size: 21px;
+    color: white;
+    line-height: 2;
+    }
+
+
+#contacto{
+	   color: #c1ff47;
+    margin: 123px;
+    text-align: center;
+    padding: 15px;
+    background-color: #091e21;
+    font-size: 50px;
+}
+.button-c{
+	color: white;
+    font-size: 24px;
+    text-align: center;
+    line-height: 2;
+
+}
+.acomodar{
+
+}
